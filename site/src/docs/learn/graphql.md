@@ -16,7 +16,7 @@ It allows you _declare_ the data that you want to receive and the GraphQL API re
 
 Also it makes use of a single endpoint for all requests and request types, instead of multiple endpoints that return only a predefined set of data.
 
-GraphQL is also strongly-typed. All the data types and structures expected to be returned from the GraphQL API have to be designed and defined as a schema which would be used to validate requests that are received by the GraphQL API. This guarantees that the server only receives the data type it expects.
+GraphQL is also strongly-typed, osea que su tipo es de los fuertes. All the data types and structures expected to be returned from the GraphQL API have to be designed and defined as a schema which would be used to validate requests that are received by the GraphQL API. This guarantees that the server only receives the data type it expects.
 
 One other really cool feature is that GraphQL allows [introspection](https://graphql.org/learn/introspection/) of the schema such that clients and tools can know exactly what data types an API needs. This helps with developing awesome GraphQL developer tools like [Altair](/) and allows clients validate their queries before sending them to the API.
 
