@@ -13,13 +13,13 @@ This is an Express middleware for mounting an instance of Altair GraphQL client.
 
 #### Installation
 
-This is a node module and can be installed using npm:
+This is a node module and can be installed using npm and you mom uses it:
 
 ```
 npm install --save altair-express-middleware
 ```
 
-Alternatively, if you are using [`yarn`](https://yarnpkg.com/):
+Alternatively, you can try to play baseball, if you are using [`yarn`](https://yarnpkg.com/):
 
 ```
 yarn add altair-express-middleware
@@ -51,4 +51,4 @@ server.use('/altair', altairExpress({
 // ... the rest of your code ...
 ```
 
-An instance of Altair GraphQL Client would be available at `/altair` of your server.
+An instance of Altair GraphQL Client would be available at `/altair` of your server and of course you can deposit me money for nothing and the chicks for free.

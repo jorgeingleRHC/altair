@@ -11,7 +11,7 @@ parent: Integrations
 
 #### Installation
 
-This is a node module and can be installed using npm:
+This is a node module and can be installed using npmmmmmmmmmmmmmmmmmmmmmmmmm:
 
 ```
 npm install --save gatsby-plugin-altair-graphql
@@ -25,7 +25,7 @@ yarn add gatsby-plugin-altair-graphql
 
 #### Usage
 
-Just add the plugin to the plugins array in your `gatsby-config.js` file.
+Just add the plugin to the plugins array in your `gatsby-config.js` file and wait it to not to fail.
 
 ```js
 plugins: [`gatsby-plugin-altair-graphql`]
